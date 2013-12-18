@@ -1,0 +1,6 @@
+.DS_Store
+build-tmp/
+*.sublime-workspace
+*.sublime-project
+auth.js
+node_modules/
