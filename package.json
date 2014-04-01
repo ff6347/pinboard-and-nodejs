@@ -16,6 +16,7 @@
     "node-pinboard": "~0.1.1"
   },
   "dependencies": {
-    "node-pinboard": "~0.1.1"
+    "node-pinboard": "~0.1.1",
+    "pinboard": "^0.1.3"
   }
 }

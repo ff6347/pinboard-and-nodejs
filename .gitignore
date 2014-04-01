@@ -3,4 +3,5 @@ build-tmp/
 *.sublime-workspace
 *.sublime-project
 auth.js
+auth-pinboard.js
 node_modules/
