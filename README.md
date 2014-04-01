@@ -1,5 +1,5 @@
-add-to-pinboard-with-nodejs
-===========================
+pinboard-and-nodejs
+===================
 
 Just playing with node and pinboard a bit
 
