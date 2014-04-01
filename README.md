@@ -6,8 +6,8 @@ Just playing with node and pinboard a bit
 
 ####Using these node modules:  
 
-["node-pinboard": "~0.1.1"](https://github.com/maxmechanic/node-pinboard)  
-["pinboard": "^0.1.3"](https://github.com/frozzare/node-pinboard)  
+[maxmechanic/node-pinboard](https://github.com/maxmechanic/node-pinboard)  
+[frozzare/pinboard](https://github.com/frozzare/node-pinboard)  
 
 
 
